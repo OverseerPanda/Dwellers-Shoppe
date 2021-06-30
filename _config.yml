@@ -1,12 +1,12 @@
 # Metadata
-title: "SirRandoo's Purchase List"
+title: "Dweller's Shoppe"
 favicon: assets/img/favicon.png
-description: A custom version of Toolkit's item list to support all the latest features of Utils.
+description: A place to either Help or Hinder the colony.
 
-baseurl: '/itemlist' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ''
-github_username: 'sirrandoo'
+baseurl: '/Dwellers-Shoppe' # the subpath of your site, e.g. /blog
+url: 'twitch.tv/overseerpanda' # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 'OverseerPanda'
+github_username: 'OverseerPanda'
 
 # Item list settings
 #
