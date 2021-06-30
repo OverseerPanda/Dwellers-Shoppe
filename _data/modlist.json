@@ -66,6 +66,12 @@
     "version": null
   },
   {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
@@ -84,9 +90,33 @@
     "version": null
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "8.0.1"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.2.0.9"
+  },
+  {
     "author": "Spdskatr, CaesarV6",
     "name": "Damage Indicators [1.2]",
     "steamId": "2016331497",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Chevreau",
+    "name": "Diagonal Walls",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Puppeteer",
+    "steamId": "2057192142",
+    "version": "1.5.5.0"
   }
 ]
