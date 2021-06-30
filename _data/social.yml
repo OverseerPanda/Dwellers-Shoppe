@@ -25,13 +25,13 @@ youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
 twitch: sirrandoo
 
 # Share button options
-share:
-  facebook: true
-  twitter: true
-  tumblr:
-  pinterest:
-  pocket:
-  reddit: true
-  linkedin:
-  wordpress:
-  email: true
+share: false
+  facebook: false
+  twitter: false
+  tumblr: false
+  pinterest: false
+  pocket: false
+  reddit: false
+  linkedin: false
+  wordpress: false
+  email: false
